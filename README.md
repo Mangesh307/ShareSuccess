@@ -28,13 +28,18 @@ To get started with ShareSuccess, follow these steps:
 2. **Navigate into the project directory:**
      cd sharesuccess
 3. **Install all dependencies:**
+   ```bash
      cd frontend
+   ```bash
      npm install
+   ```bash
      cd ../backend
+   ```bash
      npm install
-4. **Mongo Setup**
+5. **Mongo Setup**
      Make sure you have MongoDB installed and running on your local machine or use a MongoDB cloud service.
      Update the MongoDB connection URI in the backend configuration file (.env file).
-5.  **Run both separately**
+6.  **Run both separately**
+    ```bash
       npm run dev
    
