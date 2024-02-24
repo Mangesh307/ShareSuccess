@@ -6,16 +6,16 @@ ShareSuccess is a web application designed to help college students share their 
 
 ShareSuccess is built using the following technologies:
 
-- **Frontend**: React
-- **Backend**: Node.js with Express.js
-- **Database**: MongoDB
+- **Frontend**: <img src="https://img.icons8.com/color/48/000000/react-native.png"/> React
+- **Backend**: <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> Node.js with <img src="https://img.icons8.com/color/48/000000/express.png"/> Express.js
+- **Database**: <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> MongoDB
 
 ## Features
 
 - **User Authentication**: Users can sign up, log in, and log out securely.
 - **Post Interviews**: Users can create posts about their interview experiences, including details like company name, interview process, questions asked, and tips/advice.
 - **View Interviews**: Visitors can browse and search for interview experiences shared by other users.
-- **Filter Interviews**: Users can filter interview experiences based on various criteria such as company name, interview type, etc.
+- **Filter Interviews**: Users can filter interview experiences based on engineering streams like CS,IT etc.
 - **Responsive Design**: The application is responsive and works well on desktop and mobile devices.
 
 ## Getting Started
@@ -30,11 +30,8 @@ To get started with ShareSuccess, follow these steps:
 3. **Install all dependencies:**
    ```bash
      cd frontend
-   ```bash
      npm install
-   ```bash
      cd ../backend
-   ```bash
      npm install
 5. **Mongo Setup**
      Make sure you have MongoDB installed and running on your local machine or use a MongoDB cloud service.
