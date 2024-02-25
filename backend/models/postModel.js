@@ -9,6 +9,7 @@ const schema = new Schema(
     category: {
       type: String,
       enum: [
+        "Uncategorized",
         "Computer",
         "Information_Technology",
         "Electronics_&_Telecommunication",
