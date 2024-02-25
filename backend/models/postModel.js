@@ -11,7 +11,7 @@ const schema = new Schema(
       enum: [
         "Computer",
         "Information_Technology",
-        "Electronics_and_telecommunication",
+        "Electronics_&_Telecommunication",
         "Electronics",
         "Mechanical",
         "Civil",
