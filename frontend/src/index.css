@@ -165,8 +165,8 @@ nav {
 .nav__logo {
   width: 4rem;
   display: block;
-  margin-top: 10px;
-  margin-left: -90px;
+  /* margin-top: 10px;
+  margin-left: -90px; */
   
 }
 
