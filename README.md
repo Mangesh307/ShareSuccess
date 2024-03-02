@@ -39,4 +39,14 @@ To get started with ShareSuccess, follow these steps:
 6.  **Run both separately**
     ```bash
       npm run dev
+7. I have deployed my backend on render when the backend gets restarted the image might not be visible as i am utilizing its free service.
+   ![image](https://github.com/Mangesh307/ShareSuccess/assets/111684165/c548de35-fd8d-4182-8fb2-18e1ad062146)
+
+   ![image](https://github.com/Mangesh307/ShareSuccess/assets/111684165/241f957c-d5bc-4d27-9db4-a07cb74dc850)
+   ![image](https://github.com/Mangesh307/ShareSuccess/assets/111684165/f23ef3c1-15bf-4d6c-a0c2-4c3ebab0267d)
+
+![image](https://github.com/Mangesh307/ShareSuccess/assets/111684165/154cd547-6c73-40bb-915e-dcc6f29b4b7e)
+
+   ![image](https://github.com/Mangesh307/ShareSuccess/assets/111684165/cb999dbd-5328-4bd8-8d6b-e16f94037d22)
+
    
